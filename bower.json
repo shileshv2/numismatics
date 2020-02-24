@@ -1,0 +1,17 @@
+{
+  "name": "my-project",
+  "authors": [
+    "Divyav2 <Divya.Badrinath@v2solutions.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
