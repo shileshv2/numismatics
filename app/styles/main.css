@@ -10,7 +10,7 @@ body{
 .one{
   height: 500px;
   position: relative;
-  top: 400px;
+  top: 200px;
 }
 .button {
   background-color: rgb(37, 99, 39); /* Green */
