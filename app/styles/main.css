@@ -6,12 +6,12 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
+
 }
 .one{
-  height: 500px;
   position: relative;
-  top: 200px;
 }
+
 .button {
   background-color: rgb(37, 99, 39); /* Green */
   border: none;
@@ -140,7 +140,7 @@ input[type=number]{
   justify-content: center;
   padding-top: 10%;
 }
-.save{
+.save, .save1{
   background-color: rgb(37, 99, 39); /* Green */
   border: none;
   color:white;

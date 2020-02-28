@@ -9,5 +9,11 @@ angular.module("myCoins").config(function($stateProvider) {
     .state("usrPage", {
       url: "/user-page",
       templateUrl: "/app/user-page.html"
+    })
+    .state("inputPage",{
+      url:"/input-data",
+      templateUrl:"appinput-data.html",
+      controller: 'inpuController'
     });
 });
+

@@ -5,7 +5,7 @@
 <body>
   <nav class="flex-form">
   <div class="form-container">
-    <form action="#">
+    <form>
       <div class="container">
         <label for="mail">Email</label>
       <input type="email" placeholder="abd@gmail.com" name="email" required>
@@ -16,9 +16,9 @@
       <label for="remember">
         <input type="checkbox" name="remember" style="margin-bottom:20px;"> Remember Me
       </label>
-      <div class="submit">
+      <div class="submit" ui-view>
         
-        <button type="submit" class="submitbtn">SUBMIT</button>
+        <button type="submit" class="submitbtn" ui-sref="inputPage">SUBMIT</button>
       </div>
     </div>
     </form>
