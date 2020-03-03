@@ -1,2 +1,2 @@
 # numismatics
-Coin collection
+Coin collection API
