@@ -1,3 +1,8 @@
+API for Numismatcs, Coin collection.
+
+Admin can enter data.
+User after entering a code, will get details about the Coin.
+
 # README
 
 This README would normally document whatever steps are necessary to get the
